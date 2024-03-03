@@ -1,0 +1,32 @@
+html,body{ 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+ 
+ 
+
+#field{ 
+    background-image: url(football-field-soccer-field_64749-477.avif); 
+    width: 1000px; 
+    height: 600px; 
+    position: relative; 
+    background-size: cover;
+    
+}
+
+
+#football{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 0;
+    top: 0;}  
+     
+    
+     
+
+    
